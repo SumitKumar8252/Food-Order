@@ -2,11 +2,24 @@
 
 This repository hosts the source code for TOMATO, a dynamic food ordering website built with the MERN Stack. It offers a user-friendly platform for seamless online food ordering.
 
+## 🌐 Live Demo
+
+## 📸 Screenshot
+
+<p align="center">
+  <img src="./frontend/public/banner.png" alt="Food Ordering Website" width="800"/>
+</p>
+
+## ✨ Features
+...
+
+
+
 ## Demo
 
-<!-- - Frontend panel:[] ()
+- Frontend panel:[https://food-order-tomato.vercel.app/] (https://food-order-tomato.vercel.app/)
 - User Panel: [https://food-order-backend-m99k.onrender.com/](hhttps://food-order-backend-m99k.onrender.com/)
-- Admin Panel: [https://food-admin-32nt.onrender.com/](https://food-admin-32nt.onrender.com/) -->
+- Admin Panel: [https://food-admin-32nt.onrender.com/](https://food-admin-32nt.onrender.com/)
 
 ## Features
 
