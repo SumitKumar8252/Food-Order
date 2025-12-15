@@ -10,7 +10,9 @@ This repository hosts the source code for TOMATO, a dynamic food ordering websit
 </p>
 
 ## 🌐 Live Demo
-
+- **Frontend (User App):** [Visit Site](https://food-order-tomato.vercel.app)
+<!-- - **Backend (API Server):** [View API](https://food-order-backend-m99k.onrender.com) -->
+- **Admin Panel:** [Admin Dashboard](https://food-admin-32nt.onrender.com)
 
 ## ✨ Features
 
@@ -40,68 +42,6 @@ This repository hosts the source code for TOMATO, a dynamic food ordering websit
 - User Panel: [https://food-order-backend-m99k.onrender.com/](hhttps://food-order-backend-m99k.onrender.com/)
 - Admin Panel: [https://food-admin-32nt.onrender.com/](https://food-admin-32nt.onrender.com/) -->
 
-
-<!-- ## Run Locally
-
-Go to the project directory
-
-```bash
-    cd Food-Delivery
-```
-Install dependencies (frontend)
-
-```bash
-    cd frontend
-    npm install
-```
-Install dependencies (admin)
-
-```bash
-    cd admin
-    npm install
-```
-Install dependencies (backend)
-
-```bash
-    cd backend
-    npm install
-``` -->
-<!-- Setup Environment Vaiables
-
-```Make .env file in "backend" folder and store environment Variables
-  JWT_SECRET=YOUR_SECRET_TEXT
-  SALT=YOUR_SALT_VALUE
-  MONGO_URL=YOUR_DATABASE_URL
-  STRIPE_SECRET_KEY=YOUR_KEY
- ``` -->
-
-<!-- Setup the Frontend and Backend URL
-   - App.jsx in Admin folder
-      const url = YOUR_BACKEND_URL
-     
-  - StoreContext.js in Frontend folder
-      const url = YOUR_BACKEND_URL
-
-  - orderController in Backend folder
-      const frontend_url = YOUR_FRONTEND_URL 
-
-Start the Backend server
-
-```bash
-    nodemon server.js
-```
-
-Start the Frontend server
-
-```bash
-    npm start
-```
-
-Start the Backend server
-
-```bash
-    npm start
-``` -->
 ## Tech Stack
 * [React](https://reactjs.org/)
 * [Node.js](https://nodejs.org/en)
@@ -113,7 +53,7 @@ Start the Backend server
 
 ## Deployment
 
-The application is deployed on Render.
+The application is deployed on Vercel & Render.
 
 <!-- 
 ## JWT Token 
